@@ -141,7 +141,7 @@ All models were evaluated using:
 
 ## 👤 Author
 
-Your Name
+Sai Shiva
 
 ## 📄 License
 
@@ -151,3 +151,7 @@ This project is open source and available under the MIT License.
 
 - Dataset source: Kaggle
 - Inspired by clinical anemia detection research
+
+---
+
+**Project by Sai Shiva**
