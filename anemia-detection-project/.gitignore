@@ -1,0 +1,98 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+temp_*
+*.tmp
+
+# ============================================================================
+# Helper/Guide Files (For personal use only - not for GitHub)
+# ============================================================================
+
+# Code snippet files (already added to notebook)
+1_EXECUTIVE_SUMMARY.py
+2_BUSINESS_CONTEXT.md
+3_MODEL_COMPARISON.py
+4_ERROR_ANALYSIS.py
+5_FEATURE_IMPORTANCE.py
+6_CONCLUSIONS.md
+
+# Guide and documentation files
+HOW_TO_ADD_IMPROVEMENTS.md
+SIMPLE_STEPS.md
+VISUAL_GUIDE.txt
+CHEAT_SHEET.txt
+START_HERE.txt
+README_FIRST.txt
+FINAL_SUMMARY.md
+EXPECTED_RESULTS.md
+IMPROVEMENTS_NEEDED.md
+INTERVIEW_ASSESSMENT.md
+INTERVIEW_READY_CHECKLIST.txt
+PROJECT_SUMMARY.txt
+INTERVIEW_GUIDE.md
+INTERVIEW_CHEAT_SHEET.txt
+HOW_TO_INTERVIEW.txt
+GIT_UPLOAD_GUIDE.md
+CLEANUP_FOR_GIT.txt
+ADD_TO_NOTEBOOK.md
+DATA_README.md
+QUICKSTART.md
+
+# Temporary/helper scripts
+create_sample_data.py
+temp_review.md
+temp_review_files/
+
+# ============================================================================
+# What WILL be included in Git (only these files):
+# - Anemic_Detection_with_ML.ipynb
+# - README.md
+# - requirements.txt
+# - LICENSE
+# - .gitignore (this file)
+# - anemia_data_from_Kaggle.csv (if present and < 100MB)
+# - *.png (generated charts, if any)
+# ============================================================================
